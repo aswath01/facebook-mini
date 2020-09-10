@@ -1,0 +1,24 @@
+.Sidebarrow{
+    display: flex;
+    align-items: center;
+    padding: 1px;
+    cursor: pointer;
+    padding-left: 110px;
+    height: 40px;
+    color: white;
+    background-color: black;
+    margin-top: 20px;
+    width: 200px;   
+
+
+}
+.Sidebarrow:hover{
+    color: 	#4267B2;        
+    
+    transition: 0.5s;
+}
+.Sidebarrow > h4{
+    margin-left:20px;
+    font-weight: 600;
+
+}

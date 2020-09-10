@@ -1,0 +1,11 @@
+*{
+    background-color: black ;
+}
+.app__body{
+    display: flex;
+   
+}
+.widjets{
+    display: flex;
+    float: right;
+}

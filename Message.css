@@ -1,0 +1,28 @@
+.Message{
+   
+    text-align: center;
+    color: aliceblue;
+    margin: 45px;
+
+}
+
+.Message > h1{
+    color: aliceblue;
+    
+    
+ }
+.message_bottom > form > input{
+    width: 200%;
+    height: 150px;
+    padding: 12px 20px;
+    
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    
+    background-color: #f8f8f8;
+    resize: none;
+  }
+  .message_bottom > pos{
+      background-color: blue;
+      color: pink;
+  }
